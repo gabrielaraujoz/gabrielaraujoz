@@ -3,8 +3,8 @@
 <!--
 **gabrielaraujoz/gabrielaraujoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working at <a href="https://www.revelo.com.br">Revelo</a> as a Customer Success Specialist and Mobile Engineering Intern @contratadome
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working at <a href="https://www.revelo.com.br">Revelo</a> as a Flutter developer @contratadome
+- 🌱 I’m always learning Flutter
 - 👯 I’m looking to collaborate on Flutter or Android projects
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: garaujo.eng@gmail.com
