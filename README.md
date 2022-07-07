@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/gabrielaraujoz">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielaraujoz&layout=compact&show_icons=true&show_owner=true&theme=chartreuse-dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielaraujoz&layout=compact&show_icons=true&show_owner=true&theme=chartreuse-dark&count_private=true" />
   </a>
 </p>
 
