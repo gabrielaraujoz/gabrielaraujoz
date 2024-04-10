@@ -3,10 +3,10 @@
 <!--
 **gabrielaraujoz/gabrielaraujoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working at <a href="https://www.revelo.com.br">Revelo</a> as a Flutter developer @contratadome
+- 🔭 I’m currently working at <a href="https://www.revelo.com.br">Revelo</a> as a Mobile and Full Stack web developer @contratadome
 - 🚀 Creator team of <a href="https://pub.dev/packages/themexpert">ThemeXpert</a> and <a href="https://pub.dev/packages/flutter_formx">Flutter FormX</a>
-- 📤 Speaker on Flutter Theming and Design Systems at <a href="https://tampa.devfestflorida.com/">Tampa Bay DevFest Florida</a>
-- 🌱 I’m always learning Flutter
+- 📤 Speaker on Flutter Theming and Design Systems at <a href="https://tampa.devfestflorida.com/">Tampa Bay DevFest Florida</a> && Flutter Global Summit 2024 <a href="https://events.geekle.us/flutter24/">
+- 🌱 I’m always learning Flutter, Ruby, Ruby on Rails and Vue.js
 - 👯 I’m looking to collaborate on Flutter or Android projects
 - 💬 Ask me about anything you want!
 - 📫 How to reach me: garaujo.eng@gmail.com
